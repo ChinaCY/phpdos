@@ -1,9 +1,7 @@
 <?php
 echo "状态 : 正常运行中.....<br>";
 echo "================================================<br>";
-echo "  <font color=blue>www.phpddos.com<br>";
 echo "  CC Flood 模块<br>";
-echo "  作者：ybhacker<br>";
 echo "  警告：本程序带有攻击性,仅供安全研究与教学之用,风险自负!</font><br>";
 echo "================================================<br><br>";
 error_reporting(E_ALL);  //提示错误信息
